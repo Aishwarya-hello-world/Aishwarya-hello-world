@@ -1,4 +1,4 @@
-# Hi there 👋
+Hi, I'm Aishwarya Radhakrishnan!
 
 Supply Chain & Operations Analytics
 💼 Excel • SQL • Tableau
