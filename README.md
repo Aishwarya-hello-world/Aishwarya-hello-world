@@ -31,6 +31,7 @@ Other: Jira, SAP (basic), Data Cleaning, Reporting
 📫 Connect With Me
 
 🔗 LinkedIn: https://www.linkedin.com/in/aishwarya-radhakrishnan-792244128/
+
 📧 Email: ashkrishnasaaoc@gmail.com
 
 ⭐ Thanks for visiting my profile! More projects coming soon.
